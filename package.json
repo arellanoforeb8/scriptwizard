@@ -1,0 +1,33 @@
+{
+  "name": "scriptwizard",
+  "version": "1.0.2",
+  "description": "scriptwizard",
+  "type": "module",
+  "main": "scriptwizard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arellanoforeb8/scriptwizard"
+  },
+  "website": "https://github.com/arellanoforeb8/scriptwizard.git",
+  "keywords": [
+    "scriptwizard"
+  ],
+  "author": "arellanoforeb8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arellanoforeb8/scriptwizard/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/arellanoforeb8/scriptwizard#readme",
+  "dependencies": {
+    "programcrafter": "1.0.2",
+    "codescriptgenius": "1.0.2",
+    "devcodeguru": "1.0.2"
+  }
+}
